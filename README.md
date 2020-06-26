@@ -2,4 +2,4 @@
 
 3(Conv Layer) + 2(MP Layer)  
 MP Layer : max-pooling Layer → Suppressing Model Overfitting  
-![CNN](‪/Image/CNN_forecasts.PNG)
+![CNN](‪Image/CNN_forecasts.PNG)
