@@ -7,4 +7,6 @@ MP Layer : max-pooling Layer → Suppressing Model Overfitting
 ![CNN](https://github.com/ojkk371/Deep-learning-for-ENSO-forecasts/blob/master/Image/CNN_forecasts.PNG?raw=true)
 
 # Transfer learning
-Transfer learning is the idea of overcoming the isolated learning paradigm and utilizing knowledge acquired for one task to solve related ones.
+Transfer learning is the idea of overcoming the isolated learning paradigm and utilizing knowledge acquired for one task to solve related ones.  
+  
+Transfer learning has several benefits, but the main advantages are saving training time, better performance of neural networks (in most cases), and not needing a lot of data  
