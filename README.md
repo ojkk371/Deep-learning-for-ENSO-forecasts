@@ -16,3 +16,7 @@ Transfer learning has several benefits, but the main advantages are saving train
 2. Freeze parameters (weights) in model's lower convolutional layers.  
 3. Add custom classifier with several layers of trainable parameters to model.  
 4. Train classifier layers on training data available for task.  
+
+# Extended Data Table
+![table4](https://github.com/ojkk371/Deep-learning-for-ENSO-forecasts/blob/master/Image/data_table_04.PNG?raw=true)  
+  
