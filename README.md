@@ -1,5 +1,5 @@
 # Deep learning for multi-year ENSO forecasts
-we-will-finish-it-in-a-week
+We will finish it in a week.
 
 # Architecture of the CNN model
 3(Conv Layer) + 2(MP Layer)  
