@@ -2,4 +2,4 @@
 
 3(Conv Layer) + 2(MP Layer)  
 MP Layer : max-pooling Layer → Suppressing Model Overfitting  
-![CNN](Deep-learning-for-ENSO-forecasts/Image/CNN_forecasts.png)
+![CNN](https://github.com/ojkk371/Deep-learning-for-ENSO-forecasts/blob/master/Image/CNN_forecasts.PNG?raw=true)
