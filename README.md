@@ -18,10 +18,12 @@ Transfer learning has several benefits, but the main advantages are saving train
 ##
 
 ## Approach to Transfer learning
+'''
 1. Load in a pre-trained CNN model trained on a large dataset.  
 2. Freeze parameters (weights) in model's lower convolutional layers.  
 3. Add custom classifier with several layers of trainable parameters to model.  
 4. Train classifier layers on training data available for task.  
+'''
 
 ##
 
